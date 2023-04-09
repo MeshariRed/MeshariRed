@@ -4,7 +4,7 @@
 
 Hi There, I'm Meshari, 20 Y.O. Programmer, Web Developer and Computer Engineer From Saudi Arabia.
 
-<!-- - :computer: I'm currently working on a different project.
+<!--  :computer: I'm currently working on a different project.
 - :school: I'm currently learning : rust
 - :cat: Fun fact : I like cats -->
 
