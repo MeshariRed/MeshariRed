@@ -63,7 +63,7 @@ Hi There, I'm Meshari, 20 Y.O. Programmer, Web Developer and Computer Engineer F
 
 
 <h1 align="center"> 
-    ✨ Contact-List ✨ 
+    Contact-List
 </h1>
 
 <h3 align="center"> 
