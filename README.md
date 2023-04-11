@@ -59,30 +59,3 @@ Hi There, I'm Meshari, 20 Y.O. Programmer, Web Developer and Computer Engineer F
 ## Stats
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeshariRed&theme=github_dark&layout=compact&exclude_repo=WilliamButcherBot,Telegram_VC_Bot,SpamProtectionRobot,GdriveSearcherBot,LunaChatBot)
-
-
-
-<h1 align="center"> 
-    Contact-List
-</h1>
-
-<h3 align="center"> 
-    This Project Just For Make A Small Idea How Make Contact List In Your Phone
-</h3>
-
-<p align="center">
-    <a href="https://python.org">
-        <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
-    </a>
-    <a href="https://GitHub.com/MeshariRed">
-        <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
-    </a> <br>
-    <img src="https://img.shields.io/github/license/MeshariRed/Contact-List?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/MeshariRed/Contact-List?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/MeshariRed/Contact-List?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
-    <a href="https://github.com/MeshariRed"><img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>
-    <a href="https://github.com/MeshariRed/Contact-List/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MeshariRed/Contact-List?label=watchers&color=54aeff&style=flat-square" /></a> 
-    <img src="https://img.shields.io/github/forks/MeshariRed/Contact-List?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/MeshariRed/Contact-List?style=for-the-badge&logo=appveyor" alt="Stars">
-</p>
