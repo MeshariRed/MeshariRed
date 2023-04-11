@@ -58,4 +58,4 @@ Hi There, I'm Meshari, 20 Y.O. Programmer, Web Developer and Computer Engineer F
 
 ## Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeshariRed&theme=github_dark&layout=compact&exclude_repo=Contact-List)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeshariRed&theme=blue-green)
